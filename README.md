@@ -2,7 +2,7 @@
 
 ## Using only backend:
 
-Database creation query can be found inside <code>ostoslista/server/dbInit.db</code> file. Just copy-paste it for example in phpmyadmin to run query.
+Database creation query can be found inside <code>ostoslista/server/dbInit.sql</code> file. Just copy-paste it for example in phpmyadmin to run query.
 
 To start NodeJS server, go to <code>ostoslista/server</code> folder and type command:<br> 
 <code>npm run devStart</code> 
