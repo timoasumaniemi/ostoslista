@@ -3,7 +3,8 @@ const dbConfig = {
         host: 'localhost',
         user: 'root',
         password: '',
-        database: 'shoppinglist'
+        database: 'shoppinglist',
+        port: ''
     }
 }
 
